@@ -1,0 +1,7 @@
+{
+    "uuid": "netrecon@KenyaLim",
+    "name": "NetRecon",
+    "description": "Shows your local IP and listening ports in the panel",
+    "version": "1.0",
+    "max-instances": 1
+}
