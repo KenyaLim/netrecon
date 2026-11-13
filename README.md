@@ -24,7 +24,7 @@ targets on the internet.
 
 ## Quick start
 
-    git clone https://github.com/yourname/netrecon.git
+    git clone https://github.com/KenyaLim/netrecon.git
     cd netrecon
     python3 netrecon.py info
     python3 netrecon.py discover 192.168.1.0/24
@@ -44,14 +44,14 @@ Run `python3 netrecon.py -h` for full help.
 ## Cinnamon widget install
 
     mkdir -p ~/.local/share/cinnamon/applets
-    cp -r netrecon@yourname ~/.local/share/cinnamon/applets/
+    cp -r netrecon@KenyaLim ~/.local/share/cinnamon/applets/
 
 Then right-click your panel, choose Applets, find "NetRecon", and add it.
 Click the icon to see the menu. It refreshes every 30 seconds.
 
 To remove it, delete the folder:
 
-    rm -rf ~/.local/share/cinnamon/applets/netrecon@yourname
+    rm -rf ~/.local/share/cinnamon/applets/netrecon@KenyaLim
 
 ## Ethics and legal notice
 
